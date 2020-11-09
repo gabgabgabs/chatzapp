@@ -15,6 +15,6 @@ $ cd ./(local)
 <br>
 $ ng add @angular/fire
 
-
+### 👥 Autores
 
 © Christian Anderson Cunha Lima | Gabriela Carla Coelho Rodrigues | João Victor de Oliveira | Kaio Oliveira do Carmo Brandão | Willian Andrade Martins
