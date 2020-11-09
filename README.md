@@ -17,6 +17,4 @@ $ ng add @angular/fire
 
 
 
-#### © Christian Anderson Cunha Lima | Gabriela Carla Coelho
-#### Rodrigues | João Victor de Oliveira | Kaio Oliveira do Carmo
-#### Brandão | Willian Andrade Martins
+© Christian Anderson Cunha Lima | Gabriela Carla Coelho Rodrigues | João Victor de Oliveira | Kaio Oliveira do Carmo Brandão | Willian Andrade Martins
