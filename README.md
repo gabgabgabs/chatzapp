@@ -1,1 +1,1 @@
-# CHATAPP 
+# CHATZ APP
