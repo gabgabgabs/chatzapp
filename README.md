@@ -10,7 +10,9 @@
 ### 🎲 Rodando o Back-end (servidor)
 
 $ git clone <https://github.com/gabgabgabs/chatzapp.git>
+<br>
 $ cd ./(local)
+<br>
 $ ng add @angular/fire
 
 © Christian Anderson Cunha Lima | Gabriela Carla Coelho
