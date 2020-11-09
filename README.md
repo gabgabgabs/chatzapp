@@ -1,4 +1,4 @@
-# CHATZ APP
+# CHATZ
 
 ### 🛠 Tecnologias
 
