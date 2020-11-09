@@ -1,0 +1,28 @@
+<ion-header>
+	<ion-toolbar color="primary">
+		<ion-title>CHATZ</ion-title>
+	</ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+	<form [formGroup]="credentialForm">
+		<ion-item>
+			<ion-input placeholder="Email" formControlName="email" autofocus="true" clearInput="true"></ion-input>
+		</ion-item>
+		<div *ngIf="(email.dirty || email.touched) && email.errors" class="errors">
+			<span *ngIf="email.errors?.required">É necessário inserir um email.</span>
+			<span *ngIf="email.errors?.email">Email inválido.</span>
+		</div>
+
+		<ion-item>
+			<ion-input placeholder="Senha" type="password" formControlName="password" clearInput="true"></ion-input>
+		</ion-item>
+		<div *ngIf="(password.dirty || password.touched) && password.errors" class="errors">
+			<span *ngIf="password.errors?.required">É necessário inserir uma senha.</span>
+			<span *ngIf="password.errors?.minlength">A senha precisa ter 6 characters.</span>
+		</div>
+	</form>
+	<br />
+	<ion-button (click)="signUp()" expand="full">Cadastrar</ion-button>
+	<ion-button (click)="signIn()" expand="full" color="secondary">Entrar</ion-button>
+</ion-content>

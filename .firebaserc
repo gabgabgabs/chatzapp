@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chatz-6c6e6": {
+      "hosting": {
+        "app": [
+          "chatz-6c6e6"
+        ]
+      }
+    }
+  }
+}
