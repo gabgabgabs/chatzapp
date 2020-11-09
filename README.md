@@ -6,3 +6,13 @@
 -   [Firebase](https://firebase.google.com/)
 -   [Ionic](https://ionicframework.com/)
 -   [TypeScript](https://www.typescriptlang.org/)
+
+🎲 Rodando o Back-end (servidor)
+
+$ git clone <https://github.com/gabgabgabs/chatzapp.git>
+$ cd ./(local)
+\$ ng add @angular/fire
+
+© Christian Anderson Cunha Lima | Gabriela Carla Coelho
+Rodrigues | João Victor de Oliveira | Kaio Oliveira do Carmo
+Brandão | Willian Andrade Martins
