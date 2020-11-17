@@ -13,6 +13,8 @@ $ git clone <https://github.com/gabgabgabs/chatzapp.git>
 <br>
 $ cd ./(local)
 <br>
+npm install
+<br>
 $ ng add @angular/fire
 
 ### 👥 Autores
