@@ -95,6 +95,6 @@ export class ChatService {
         return usr.email;
       }
     }
-    return '@gabriela';
+    return 'usr.email';
   }
 }
